@@ -1,0 +1,5 @@
+/uv.lock
+/.ipynb_checkpoints/
+__pycache__
+/jupyter.out
+/tokens
